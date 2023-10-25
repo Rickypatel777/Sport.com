@@ -1,3 +1,3 @@
 # Sport.com
 ....
-i maked mini website.i used tailblocks css and tailwind css.When You will use tailwind css 
+i maked mini website.i used tailblocks css and tailwind css.You will use tailwind css 
